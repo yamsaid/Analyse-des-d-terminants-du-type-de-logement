@@ -179,7 +179,7 @@ Recommandations opérationnelles
 <tr>
 <td valign="top" width="50%">
 
-<h3>Performance globale du modèle</h3>
+<h3>Performance globale</h3>
 
 <table>
 <tr><th>Indicateur</th><th>Valeur</th></tr>
