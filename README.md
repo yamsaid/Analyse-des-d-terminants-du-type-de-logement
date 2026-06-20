@@ -1,5 +1,3 @@
-# Analyse des déterminants du type de logement des ménages urbains au Burkina Faso
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder\&color=0:16213e,100:0f3460\&height=180\&text=Analyse%20des%20déterminants%20du%20type%20de%20logement%20des%20ménages%20urbains%20au%20Burkina%20Faso\&fontSize=20\&fontColor=ffffff\&desc=Économétrie%20des%20Variables%20Qualitatives%20|%20Régression%20Logistique%20Multinomiale\&descSize=15\&descAlignY=75)
 
 <p align="center">
@@ -11,6 +9,16 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
+
+<p align="center">
+  <a href="https://LIEN_VERS_TON_CV.pdf">
+    <img src="https://img.shields.io/badge/My%20Français-2d6a4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"/>
+  </a>
+  &nbsp;
+  <a href="https://LIEN_VERS_TON_PORTFOLIO">
+    <img src="https://img.shields.io/badge/My%20English-1b4332?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio"/>
+  </a>
+</p>
 
 # Résumé
 
@@ -290,40 +298,52 @@ Les résultats peuvent être exploités par :
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
+
 # 👥 Équipe & Encadrement
 
 ## Réalisé par
 
 <table align="center">
-<tr>
-<td align="center">
-<b>NIAMPA Abdoul Fataho</b><br/>
-<sub>Licence Analyse Statistique - ISSP</sub>
-</td>
-
-<td align="center">
-<b>SAWADOGO Pengdwendé Orianne-Aurèle</b><br/>
-<sub>Licence Analyse Statistique - ISSP</sub>
-</td>
-
-<td align="center">
-<b>YAMEOGO Saïdou</b><br/>
-<sub>Licence Analyse Statistique - ISSP</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <b>NIAMPA Abdoul Fataho</b><br/>
+      <sub>Licence Analyse Statistique — ISSP</sub>
+      <a href="https://github.com/fatah">
+        <img src="https://img.shields.io/badge/GitHub-fatah-181717?style=flat-square&logo=github"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>SAWADOGO Pengdwendé Orianne-Aurele</b><br/>
+      <sub>Licence Analyse Statistique — ISSP</sub>
+      <a href="https://github.com/#">
+        <img src="https://img.shields.io/badge/GitHub-aurele-181717?style=flat-square&logo=github"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>YAMEOGO Saïdou</b><br/>
+      <sub>Licence Analyse Statistique — ISSP</sub><br/>
+      <a href="https://github.com/yamsaid">
+        <img src="https://img.shields.io/badge/GitHub-yamsaid-181717?style=flat-square&logo=github"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Encadrement
 
 <table align="center">
-<tr>
-<td align="center">
-<b>Dr. Boyam Fabrice YAMEOGO</b><br/>
-<sub>Économétrie des Variables Qualitatives</sub><br/>
-<sub>Université Joseph Ki-Zerbo</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <b>Dr. Boyam Fabrice YAMEOGO</b><br/>
+      <sub>Enseignant — Économétrie des Variables Quantitatives</sub><br/>
+      <sub>Institut Supérieur des Sciences de la Population (ISSP)</sub><br/>
+      <sub>Université Joseph Ki-Zerbo, Ouagadougou 🇧🇫</sub>
+    </td>
+  </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
@@ -354,17 +374,11 @@ Les résultats peuvent être exploités par :
 
 # 📄 Lire le rapport
 
-```markdown
-[INSÉRER_IMAGE_PAGE_DE_GARDE]
-```
-
-📥 **Rapport complet :**
-
 <p align="center">
         <img width="717" height="903" alt="Capture d&#39;écran 2026-06-20 151804" src="https://github.com/user-attachments/assets/3ff67169-870f-4a3a-8eeb-7b9f8e29e377" />
 </p>
 
-[Lire le rapport](rapport.pdf)
+[**Lire le rapport**](rapport.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
