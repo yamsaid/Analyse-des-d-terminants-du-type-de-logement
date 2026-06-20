@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/%20Français-2d6a4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"/>
+    <img src="https://img.shields.io/badge/🇫🇷%20Français-2d6a4f?style=for-the-badge" alt="Version Française"/>
   </a>
-  &nbsp;
-  <a href="https://LIEN_VERS_TON_PORTFOLIO">
-    <img src="https://img.shields.io/badge/%20English-1b4332?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio"/>
+
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/🇬🇧%20English-1d3557?style=for-the-badge" alt="English Version"/>
   </a>
 </p>
 

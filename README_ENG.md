@@ -11,12 +11,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/%20Français-2d6a4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"/>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇫🇷%20Français-2d6a4f?style=for-the-badge" alt="Version Française"/>
   </a>
-  &nbsp;
-  <a href="https://LIEN_VERS_TON_PORTFOLIO">
-    <img src="https://img.shields.io/badge/%20English-1b4332?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio"/>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/🇬🇧%20English-1d3557?style=for-the-badge" alt="English Version"/>
   </a>
 </p>
 
@@ -377,24 +377,25 @@ The results can support:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 📄 Lire le rapport
+# 📄 Read the Report
 
 <p align="center">
         <img width="717" height="903" alt="Capture d&#39;écran 2026-06-20 151804" src="https://github.com/user-attachments/assets/3ff67169-870f-4a3a-8eeb-7b9f8e29e377" />
 </p>
 
-[**Lire le rapport**](rapport.pdf)
+[**Read the Report**](rapport.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 📚 Références bibliographiques
+# 📚 References
 
 * Agresti, A. (2018). *Statistical Methods for the Social Sciences*.
-* Hosmer, D., Lemeshow, S. & Sturdivant, R. (2013). *Applied Logistic Regression*.
-* Hair, J. et al. (2019). *Multivariate Data Analysis*.
-* Greene, W. (2018). *Econometric Analysis*.
-* INSD (2021). *Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM 2018)*.
-* Institut Supérieur des Sciences de la Population (ISSP).
+* Hosmer, D., Lemeshow, S., & Sturdivant, R. (2013). *Applied Logistic Regression*.
+* Hair, J., Black, W., Babin, B., & Anderson, R. (2019). *Multivariate Data Analysis*.
+* Greene, W. H. (2018). *Econometric Analysis*.
+* INSD (2021). *Harmonized Survey on Household Living Conditions (EHCVM 2018)*.
+* Higher Institute of Population Sciences (ISSP).
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
