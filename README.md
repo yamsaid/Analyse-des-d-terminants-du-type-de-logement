@@ -214,6 +214,21 @@ Recommandations opérationnelles
 </table>
 
 </td>
+
+<td valign="top" width="50%">
+
+<h3>Diagnostic du modèle</h3>
+
+<table>
+<tr><th>Diagnostic</th><th>Résultat</th></tr>
+<tr><td>Multicolinéarité</td><td>Absente</td></tr>
+<tr><td>GVIF corrigé max </td><td>1.36 </td></tr>
+<tr><td>Résidus</td><td>Acceptables</td></tr>
+<tr><td>Ajustement global</td><td>Bon</td></tr>
+<tr><td>Validité statistique</td><td>Confirmée</td></tr>
+</table>
+
+</td>
 </tr>
 </table>
 
