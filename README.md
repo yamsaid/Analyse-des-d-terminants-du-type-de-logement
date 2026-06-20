@@ -1,5 +1,3 @@
-# Analyse des déterminants du type de logement des ménages urbains au Burkina Faso
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder\&color=0:16213e,100:0f3460\&height=180\&text=Analyse%20des%20déterminants%20du%20type%20de%20logement%20des%20ménages%20urbains%20au%20Burkina%20Faso\&fontSize=20\&fontColor=ffffff\&desc=Économétrie%20des%20Variables%20Qualitatives%20|%20Régression%20Logistique%20Multinomiale\&descSize=15\&descAlignY=75)
 
 <p align="center">
@@ -11,6 +9,16 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/%20Français-2d6a4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"/>
+  </a>
+  &nbsp;
+  <a href="https://LIEN_VERS_TON_PORTFOLIO">
+    <img src="https://img.shields.io/badge/%20English-1b4332?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio"/>
+  </a>
+</p>
 
 # Résumé
 
@@ -62,6 +70,12 @@ Dans ce contexte, l'entreprise fictive **ImmoFaso S.A.** souhaite mieux comprend
 
 # 🗂️ Données
 
+<table>
+<tr>
+
+<td width="30%" valign="top">
+<h3 align="center">Source</h3>
+
 | Caractéristique              | Description                  |
 | ---------------------------- | ---------------------------- |
 | Source                       | EHCVM 2018                   |
@@ -71,8 +85,11 @@ Dans ce contexte, l'entreprise fictive **ImmoFaso S.A.** souhaite mieux comprend
 | Variable cible               | Type de logement             |
 | Nombre de catégories finales | 4                            |
 | Domaine                      | Habitat et conditions de vie |
+</td>
 
-### Variables retenues
+<td width="75%" valign="top">
+
+<h3 align="center">Variables retenues</h3>
 
 | Variable            | Type            | Rôle                  |
 | ------------------- | --------------- | --------------------- |
@@ -85,6 +102,12 @@ Dans ce contexte, l'entreprise fictive **ImmoFaso S.A.** souhaite mieux comprend
 | `niveau_confort`    | Synthétique ACP | Niveau de confort     |
 | `qualite_logement`  | Score composite | Qualité de l'habitat  |
 | `region_residence`  | Qualitative     | Facteur géographique  |
+
+</td>
+
+</tr>
+
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
@@ -152,39 +175,6 @@ Recommandations opérationnelles
 
 # 📊 Résultats
 
-## Performance globale du modèle
-
-| Indicateur          |   Valeur |
-| ------------------- | -------: |
-| AIC                 |   4658.2 |
-| LRT                 |  2913.97 |
-| p-value             | < 0.0001 |
-| Pseudo R² McFadden  |    0.393 |
-| Accuracy moyenne CV |   67.5 % |
-
-## Validation croisée
-
-| Fold    | Accuracy |
-| ------- | -------: |
-| Fold 1  |   65.5 % |
-| Fold 2  |   66.3 % |
-| Fold 3  |   69.6 % |
-| Fold 4  |   68.8 % |
-| Moyenne |   67.5 % |
-
-## Diagnostics du modèle
-
-
-
-| Diagnostic           | Résultat    |
-| -------------------- | ----------- |
-| Multicolinéarité     | Absente     |
-| GVIF corrigé max     | 1.36        |
-| Résidus              | Acceptables |
-| Ajustement global    | Bon         |
-| Validité statistique | Confirmée   |
-
-
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -238,29 +228,16 @@ Recommandations opérationnelles
 
 ### Répartition des types de logement
 
-![](img/logo.jpg)
-
 ![](img/repartition_type_logement.png)
-![](img/test_wald.png)
-![](img/type_logement_3plus.png)
 
 ### Analyse régionale
 
-```markdown
-[INSÉRER_URL_IMAGE]
-```
+![](img/type_logement_3plus.png)
 
-### Matrice de V de Cramer
+### Test de wald
 
-```markdown
-[INSÉRER_URL_IMAGE]
-```
+![](img/test_wald.png)
 
-### Distribution des résidus
-
-```markdown
-[INSÉRER_URL_IMAGE]
-```
 
 ### Importance relative des déterminants
 
@@ -336,39 +313,48 @@ Les résultats peuvent être exploités par :
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
+
 # 👥 Équipe & Encadrement
 
 ## Réalisé par
 
 <table align="center">
-<tr>
-<td align="center">
-<b>NIAMPA Abdoul Fataho</b><br/>
-<sub>Licence Analyse Statistique - ISSP</sub>
-</td>
-
-<td align="center">
-<b>SAWADOGO Pengdwendé Orianne-Aurèle</b><br/>
-<sub>Licence Analyse Statistique - ISSP</sub>
-</td>
-
-<td align="center">
-<b>YAMEOGO Saïdou</b><br/>
-<sub>Licence Analyse Statistique - ISSP</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <b>NIAMPA Abdoul Fataho</b><br/>
+      <sub>Licence Analyse Statistique — ISSP</sub>
+      <a href="https://github.com/fatah">
+        <img src="https://img.shields.io/badge/GitHub-fatah-181717?style=flat-square&logo=github"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>SAWADOGO Pengdwendé Orianne-Aurele</b><br/>
+      <sub>Licence Analyse Statistique — ISSP</sub>
+      <a href="https://github.com/#">
+        <img src="https://img.shields.io/badge/GitHub-aurele-181717?style=flat-square&logo=github"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>YAMEOGO Saïdou</b><br/>
+      <sub>Licence Analyse Statistique — ISSP</sub><br/>
+      <a href="https://github.com/yamsaid">
+        <img src="https://img.shields.io/badge/GitHub-yamsaid-181717?style=flat-square&logo=github"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Encadrement
 
 <table align="center">
-<tr>
-<td align="center">
-<b>Dr. Boyam Fabrice YAMEOGO</b><br/>
-<sub>Économétrie des Variables Qualitatives</sub><br/>
-<sub>Université Joseph Ki-Zerbo</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <b>Dr. Boyam Fabrice YAMEOGO</b><br/>
+      <sub>Enseignant — Économétrie des Variables Quantitatives</sub><br/>
+      <sub>Institut Supérieur des Sciences de la Population (ISSP)</sub><br/>
+      <sub>Université Joseph Ki-Zerbo, Ouagadougou 🇧🇫</sub>
+    </td>
+  </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
@@ -400,15 +386,11 @@ Les résultats peuvent être exploités par :
 
 # 📄 Lire le rapport
 
-```markdown
-[INSÉRER_IMAGE_PAGE_DE_GARDE]
-```
+<p align="center">
+        <img width="717" height="903" alt="Capture d&#39;écran 2026-06-20 151804" src="https://github.com/user-attachments/assets/3ff67169-870f-4a3a-8eeb-7b9f8e29e377" />
+</p>
 
-📥 **Rapport complet :**
-
-```markdown
-[INSÉRER_LIEN_PDF]
-```
+[**Lire le rapport**](rapport.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
