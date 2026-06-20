@@ -186,27 +186,16 @@ Recommandations opérationnelles
 
 ### Répartition des types de logement
 
-```markdown
-[INSÉRER_URL_IMAGE]
-```
+![](img/repartition_type_logement.png)
 
 ### Analyse régionale
 
-```markdown
-[INSÉRER_URL_IMAGE]
-```
+![](img/type_logement_3plus.png)
 
-### Matrice de V de Cramer
+### Test de wald
 
-```markdown
-[INSÉRER_URL_IMAGE]
-```
+![](img/test_wald.png)
 
-### Distribution des résidus
-
-```markdown
-[INSÉRER_URL_IMAGE]
-```
 
 ### Importance relative des déterminants
 
@@ -352,9 +341,11 @@ Les résultats peuvent être exploités par :
 
 📥 **Rapport complet :**
 
-```markdown
-[INSÉRER_LIEN_PDF]
-```
+<p align="center">
+        <img width="717" height="903" alt="Capture d&#39;écran 2026-06-20 151804" src="https://github.com/user-attachments/assets/3ff67169-870f-4a3a-8eeb-7b9f8e29e377" />
+</p>
+
+[Lire le rapport](rapport.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
