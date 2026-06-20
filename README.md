@@ -152,37 +152,6 @@ Recommandations opérationnelles
 
 # 📊 Résultats
 
-## Performance globale du modèle
-
-| Indicateur          |   Valeur |
-| ------------------- | -------: |
-| AIC                 |   4658.2 |
-| LRT                 |  2913.97 |
-| p-value             | < 0.0001 |
-| Pseudo R² McFadden  |    0.393 |
-| Accuracy moyenne CV |   67.5 % |
-
-## Validation croisée
-
-| Fold    | Accuracy |
-| ------- | -------: |
-| Fold 1  |   65.5 % |
-| Fold 2  |   66.3 % |
-| Fold 3  |   69.6 % |
-| Fold 4  |   68.8 % |
-| Moyenne |   67.5 % |
-
-## Diagnostics du modèle
-
-| Diagnostic           | Résultat    |
-| -------------------- | ----------- |
-| Multicolinéarité     | Absente     |
-| GVIF corrigé max     | 1.36        |
-| Résidus              | Acceptables |
-| Ajustement global    | Bon         |
-| Validité statistique | Confirmée   |
-
-
 <table>
 <tr>
 <td valign="top" width="50%">
