@@ -11,12 +11,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
 <p align="center">
-  <a href="https://LIEN_VERS_TON_CV.pdf">
-    <img src="https://img.shields.io/badge/My%20Français-2d6a4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/%20Français-2d6a4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV"/>
   </a>
   &nbsp;
   <a href="https://LIEN_VERS_TON_PORTFOLIO">
-    <img src="https://img.shields.io/badge/My%20English-1b4332?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio"/>
+    <img src="https://img.shields.io/badge/%20English-1b4332?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio"/>
   </a>
 </p>
 
@@ -70,6 +70,12 @@ Dans ce contexte, l'entreprise fictive **ImmoFaso S.A.** souhaite mieux comprend
 
 # 🗂️ Données
 
+<table>
+<tr>
+
+<td width="30%" valign="top">
+<h3 align="center">Source</h3>
+
 | Caractéristique              | Description                  |
 | ---------------------------- | ---------------------------- |
 | Source                       | EHCVM 2018                   |
@@ -79,8 +85,11 @@ Dans ce contexte, l'entreprise fictive **ImmoFaso S.A.** souhaite mieux comprend
 | Variable cible               | Type de logement             |
 | Nombre de catégories finales | 4                            |
 | Domaine                      | Habitat et conditions de vie |
+</td>
 
-### Variables retenues
+<td width="75%" valign="top">
+
+<h3 align="center">Variables retenues</h3>
 
 | Variable            | Type            | Rôle                  |
 | ------------------- | --------------- | --------------------- |
@@ -93,6 +102,12 @@ Dans ce contexte, l'entreprise fictive **ImmoFaso S.A.** souhaite mieux comprend
 | `niveau_confort`    | Synthétique ACP | Niveau de confort     |
 | `qualite_logement`  | Score composite | Qualité de l'habitat  |
 | `region_residence`  | Qualitative     | Facteur géographique  |
+
+</td>
+
+</tr>
+
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
