@@ -359,9 +359,6 @@ Les résultats peuvent être exploités par :
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
-
 # 📁 Structure du projet
 
 ```text
