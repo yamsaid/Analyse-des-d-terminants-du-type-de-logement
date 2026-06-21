@@ -113,6 +113,7 @@ Within this context, the fictional company **ImmoFaso S.A.** seeks to better und
 
 # 🔬 Methodology
 
+```
 EHCVM 2018 Dataset
         │
         ▼
@@ -149,6 +150,7 @@ Model Validation
         │
         ▼
 Policy and Business Recommendations
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
