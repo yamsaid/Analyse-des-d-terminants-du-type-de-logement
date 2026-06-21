@@ -181,14 +181,13 @@ Recommandations opérationnelles
 
 <h3>Performance globale</h3>
 
-<table>
-<tr><th>Indicateur</th><th>Valeur</th></tr>
-<tr><td>AIC</td><td>4658.2</td></tr>
-<tr><td>LRT</td><td>2913.97</td></tr>
-<tr><td>p-value</td><td>&lt; 0.0001</td></tr>
-<tr><td>Pseudo R² McFadden</td><td>0.393</td></tr>
-<tr><td>Accuracy moyenne CV</td><td>67.5 %</td></tr>
-</table>
+| Indicateur          |   Valeur |
+| ------------------- | -------: |
+| AIC                 |   4658.2 |
+| LRT                 |  2913.97 |
+| p-value             | < 0.0001 |
+| Pseudo R² McFadden  |    0.393 |
+| Accuracy moyenne CV |   67.5 % |
 
 </td>
 
@@ -196,14 +195,13 @@ Recommandations opérationnelles
 
 <h3>Validation croisée</h3>
 
-<table>
-<tr><th>Fold</th><th>Accuracy</th></tr>
-<tr><td>Fold 1</td><td>65.5 %</td></tr>
-<tr><td>Fold 2</td><td>66.3 %</td></tr>
-<tr><td>Fold 3</td><td>69.6 %</td></tr>
-<tr><td>Fold 4</td><td>68.8 %</td></tr>
-<tr><td>Moyenne</td><td>67.5 %</td></tr>
-</table>
+| Fold    | Accuracy |
+| ------- | -------: |
+| Fold 1  |   65.5 % |
+| Fold 2  |   66.3 % |
+| Fold 3  |   69.6 % |
+| Fold 4  |   68.8 % |
+| Moyenne |   67.5 % |
 
 </td>
 
@@ -211,14 +209,13 @@ Recommandations opérationnelles
 
 <h3>Diagnostic du modèle</h3>
 
-<table>
-<tr><th>Diagnostic</th><th>Résultat</th></tr>
-<tr><td>Multicolinéarité</td><td>Absente</td></tr>
-<tr><td>GVIF corrigé max </td><td>1.36 </td></tr>
-<tr><td>Résidus</td><td>Acceptables</td></tr>
-<tr><td>Ajustement global</td><td>Bon</td></tr>
-<tr><td>Validité statistique</td><td>Confirmée</td></tr>
-</table>
+| Diagnostic           | Résultat    |
+| -------------------- | ----------- |
+| Multicolinéarité     | Absente     |
+| GVIF corrigé max     | 1.36        |
+| Résidus              | Acceptables |
+| Ajustement global    | Bon         |
+| Validité statistique | Confirmée   |
 
 </td>
 </tr>
