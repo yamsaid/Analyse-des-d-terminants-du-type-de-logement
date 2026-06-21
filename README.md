@@ -22,11 +22,11 @@
 
 # Résumé
 
-*Dans un contexte d'urbanisation rapide et de croissance démographique soutenue au Burkina Faso, la compréhension des facteurs qui influencent les choix résidentiels des ménages constitue un enjeu majeur pour les acteurs du secteur immobilier et les décideurs publics.
+*Dans un contexte d'urbanisation rapide et de croissance démographique soutenue au Burkina Faso, la compréhension des facteurs qui influencent les choix résidentiels des ménages constitue un enjeu majeur pour les acteurs du secteur immobilier et les décideurs publics.*
 
-Ce projet analyse les déterminants du type de logement occupé par les ménages urbains à partir des données de l'Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM 2018). L'étude mobilise une approche économétrique basée sur la régression logistique multinomiale afin d'expliquer les différences observées entre plusieurs catégories de logements.
+*Ce projet analyse les déterminants du type de logement occupé par les ménages urbains à partir des données de l'Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM 2018). L'étude mobilise une approche économétrique basée sur la régression logistique multinomiale afin d'expliquer les différences observées entre plusieurs catégories de logements.*
 
-L'analyse combine des variables socioéconomiques, démographiques, géographiques et relatives aux conditions d'habitat. Des techniques avancées de traitement des données ont également été utilisées : ACP, ACM, imputation multiple, validation croisée et diagnostics statistiques complets.*
+*L'analyse combine des variables socioéconomiques, démographiques, géographiques et relatives aux conditions d'habitat. Des techniques avancées de traitement des données ont également été utilisées : ACP, ACM, imputation multiple, validation croisée et diagnostics statistiques complets.*
 
 ### 🚀 Key Results
 
