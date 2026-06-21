@@ -22,11 +22,11 @@
 
 # Executive Summary
 
-In a context of rapid urbanization and sustained demographic growth in Burkina Faso, understanding the factors influencing household housing choices has become a major challenge for both real estate stakeholders and public decision-makers.
+*In a context of rapid urbanization and sustained demographic growth in Burkina Faso, understanding the factors influencing household housing choices has become a major challenge for both real estate stakeholders and public decision-makers.*
 
-This project investigates the determinants of housing type occupied by urban households using data from the Harmonized Household Living Conditions Survey (EHCVM 2018). The study relies on an econometric framework based on Multinomial Logistic Regression to explain differences observed across several housing categories.
+*This project investigates the determinants of housing type occupied by urban households using data from the Harmonized Household Living Conditions Survey (EHCVM 2018). The study relies on an econometric framework based on Multinomial Logistic Regression to explain differences observed across several housing categories.*
 
-The analysis combines socioeconomic, demographic, geographic, and housing-condition variables. Advanced data processing techniques were also employed, including Principal Component Analysis (PCA), Multiple Correspondence Analysis (MCA), Multiple Imputation, Cross-Validation, and comprehensive statistical diagnostics.
+*The analysis combines socioeconomic, demographic, geographic, and housing-condition variables. Advanced data processing techniques were also employed, including Principal Component Analysis (PCA), Multiple Correspondence Analysis (MCA), Multiple Imputation, Cross-Validation, and comprehensive statistical diagnostics.*
 
 ### 🚀 Key Results
 
